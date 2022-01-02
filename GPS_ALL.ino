@@ -3,6 +3,7 @@
  * GPS data being recieved if red LED flashes at 1 sec rate
  * static const int RXPin = 4, TXPin = 3; ***BUT** TXD needs to on pin 4 
  * Using GPS Module GPS NEO-6M from MakerFocus on Amazon
+ * Set up line 158 for capitol airport in Waukesha WI, you can change to whatever GPS coordinates for a distance to reading
    This sample code demonstrates just about every built-in operation of TinyGPS++ (TinyGPSPlus).
    It requires the use of SoftwareSerial, and assumes that you have a
    4800-baud serial GPS device hooked up on pins 4(rx) and 3(tx).
